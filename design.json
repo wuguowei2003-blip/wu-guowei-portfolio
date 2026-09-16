@@ -1,0 +1,312 @@
+[
+  {
+    "id": "brand",
+    "title": "粒粒吉 · 品牌与包装",
+    "description": "品牌标识、包装与视觉应用",
+    "images": [
+      {
+        "src": "design/brand-1.jpg",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "src": "design/brand-2.jpg",
+        "width": 1280,
+        "height": 1765
+      },
+      {
+        "src": "design/brand-3.jpg",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "src": "design/brand-4.jpg",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "src": "design/brand-5.jpg",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "src": "design/brand-6.jpg",
+        "width": 1718,
+        "height": 1165
+      },
+      {
+        "src": "design/brand-7.jpg",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "src": "design/brand-8.jpg",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "src": "design/brand-9.jpg",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "src": "design/brand-10.jpg",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "src": "design/brand-11.jpg",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "src": "design/brand-12.jpg",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "src": "design/brand-13.jpg",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "src": "design/brand-14.jpg",
+        "width": 1280,
+        "height": 768
+      }
+    ]
+  },
+  {
+    "id": "commerce",
+    "title": "钓具 · 电商详情设计",
+    "description": "产品卖点、参数与实战展示",
+    "images": [
+      {
+        "src": "design/commerce-1.jpg",
+        "width": 294,
+        "height": 679
+      },
+      {
+        "src": "design/commerce-2.jpg",
+        "width": 295,
+        "height": 675
+      },
+      {
+        "src": "design/commerce-3.jpg",
+        "width": 294,
+        "height": 677
+      },
+      {
+        "src": "design/commerce-4.jpg",
+        "width": 295,
+        "height": 676
+      },
+      {
+        "src": "design/commerce-5.jpg",
+        "width": 293,
+        "height": 671
+      },
+      {
+        "src": "design/commerce-6.jpg",
+        "width": 294,
+        "height": 670
+      },
+      {
+        "src": "design/commerce-7.jpg",
+        "width": 293,
+        "height": 671
+      },
+      {
+        "src": "design/commerce-8.jpg",
+        "width": 293,
+        "height": 676
+      }
+    ]
+  },
+  {
+    "id": "ui",
+    "title": "戏韵与沉香 · UI 设计",
+    "description": "移动端界面与应用视觉展示",
+    "images": [
+      {
+        "src": "design/ui-1.jpg",
+        "width": 319,
+        "height": 567
+      },
+      {
+        "src": "design/ui-2.jpg",
+        "width": 320,
+        "height": 567
+      },
+      {
+        "src": "design/ui-3.jpg",
+        "width": 320,
+        "height": 567
+      },
+      {
+        "src": "design/ui-4.jpg",
+        "width": 318,
+        "height": 567
+      },
+      {
+        "src": "design/ui-5.jpg",
+        "width": 319,
+        "height": 565
+      },
+      {
+        "src": "design/ui-6.jpg",
+        "width": 315,
+        "height": 564
+      },
+      {
+        "src": "design/ui-7.jpg",
+        "width": 318,
+        "height": 566
+      },
+      {
+        "src": "design/ui-8.jpg",
+        "width": 318,
+        "height": 564
+      },
+      {
+        "src": "design/ui-9.jpg",
+        "width": 318,
+        "height": 563
+      },
+      {
+        "src": "design/ui-10.jpg",
+        "width": 318,
+        "height": 563
+      },
+      {
+        "src": "design/ui-11.jpg",
+        "width": 318,
+        "height": 567
+      },
+      {
+        "src": "design/ui-12.jpg",
+        "width": 316,
+        "height": 564
+      },
+      {
+        "src": "design/ui-13.jpg",
+        "width": 317,
+        "height": 566
+      },
+      {
+        "src": "design/ui-14.jpg",
+        "width": 317,
+        "height": 564
+      },
+      {
+        "src": "design/ui-15.jpg",
+        "width": 319,
+        "height": 579
+      },
+      {
+        "src": "design/ui-16.jpg",
+        "width": 317,
+        "height": 565
+      },
+      {
+        "src": "design/ui-17.jpg",
+        "width": 319,
+        "height": 565
+      },
+      {
+        "src": "design/ui-18.jpg",
+        "width": 318,
+        "height": 566
+      },
+      {
+        "src": "design/ui-19.jpg",
+        "width": 318,
+        "height": 566
+      },
+      {
+        "src": "design/ui-20.jpg",
+        "width": 318,
+        "height": 564
+      },
+      {
+        "src": "design/ui-21.jpg",
+        "width": 317,
+        "height": 564
+      },
+      {
+        "src": "design/ui-22.jpg",
+        "width": 320,
+        "height": 564
+      },
+      {
+        "src": "design/ui-23.jpg",
+        "width": 315,
+        "height": 567
+      },
+      {
+        "src": "design/ui-24.jpg",
+        "width": 321,
+        "height": 566
+      },
+      {
+        "src": "design/ui-25.jpg",
+        "width": 318,
+        "height": 568
+      },
+      {
+        "src": "design/ui-26.jpg",
+        "width": 2116,
+        "height": 3718
+      },
+      {
+        "src": "design/ui-27.jpg",
+        "width": 2480,
+        "height": 3508
+      }
+    ]
+  },
+  {
+    "id": "poster",
+    "title": "活动海报 · 营销视觉",
+    "description": "促销活动与产品主题海报",
+    "images": [
+      {
+        "src": "design/poster-1.jpg",
+        "width": 244,
+        "height": 373
+      },
+      {
+        "src": "design/poster-2.jpg",
+        "width": 264,
+        "height": 375
+      },
+      {
+        "src": "design/poster-3.jpg",
+        "width": 243,
+        "height": 375
+      },
+      {
+        "src": "design/poster-4.jpg",
+        "width": 240,
+        "height": 370
+      }
+    ]
+  },
+  {
+    "id": "model",
+    "title": "场景建模 · 三维空间",
+    "description": "场景结构与材质效果展示",
+    "images": [
+      {
+        "src": "design/model-1.jpg",
+        "width": 1049,
+        "height": 879
+      },
+      {
+        "src": "design/model-2.jpg",
+        "width": 1240,
+        "height": 962
+      }
+    ]
+  }
+]
