@@ -21,3 +21,11 @@
 通过 HTTP 预览才能正常读取作品 JSON 数据。
 
 作品素材仅用于个人作品展示，未授予第三方复制或再分发许可。
+
+## Vercel
+
+正式网址：https://wu-guowei-portfolio.vercel.app/
+
+Vercel 项目已连接本仓库，推送到 `main` 分支后自动部署生产环境。
+网站为纯静态文件，无需构建，发布目录为仓库根目录。
+本地 `.vercel/` 配置不提交到 Git。
